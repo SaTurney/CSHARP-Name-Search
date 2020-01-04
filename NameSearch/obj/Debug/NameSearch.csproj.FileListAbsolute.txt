@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 5\NameSearch\obj\Debug\NameSearch.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 5\NameSearch\obj\Debug\NameSearch.NameSearch.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 5\NameSearch\obj\Debug\NameSearch.Properties.Resources.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 5\NameSearch\obj\Debug\NameSearch.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 5\NameSearch\obj\Debug\NameSearch.csproj.CoreCompileInputs.cache
